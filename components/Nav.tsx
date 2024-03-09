@@ -27,7 +27,7 @@ export const Nav = () => {
             <Link href="/">
               <div className="flex items-center justify-center w-24">
                 <FaMapMarkerAlt width={36} height={36} />
-                <span className="ml-2 font-bold">🅰️TL5️⃣D</span>
+                <span className="ml-2 font-bold">🏀UHOOPER</span>
               </div>
             </Link>
           </div>
@@ -49,7 +49,7 @@ export const Nav = () => {
               className="px-3 py-3.5 rounded-md text-sm font-medium focus:outline-none hover:bg-primary-color hover:text-secondary-color"
               href="/"
             >
-              @W3BARS
+              @UHOOPERS
             </Link>
           </div>
 
